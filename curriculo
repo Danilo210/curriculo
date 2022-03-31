@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<style type="text/css">
+
+		img {
+			border-radius: 10px;
+		}
+
+		hr {
+			border-color: black;
+		}
+		
+		table {
+			background: rgba(255, 255, 255, 0.3);
+			backdrop-filter: blur( 10px );
+			-webkit-backdrop-filter: blur( 10px );
+			width: 1000px;
+			border-radius: 10px;
+		}
+
+		body{
+		background-image:url(https://miro.medium.com/max/1080/1*pECmpnMF6s3TGonWTqWhJw.jpeg);
+ 		background-repeat: no-repeat;
+ 		background-size: cover;
+ 		font-size: 19px;
+ 		color: rgba(0, 0, 0, 1.0);
+		}
+
+	</style>
+
+	<title>
+	Curriculo - Danilo Monteiro da Silva
+	</title>
+</head>
+<body>
+
+<!--Inicio da celula esquerda -->			
+			<table align="center" width="700px">
+
+				<tr>
+					<td width="70%">
+						<h3><i>Perfil profissional</i></h3>
+						<p>Mussum Ipsum, cacilds vidis litro abertis. Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.Viva Forevis aptent taciti sociosqu ad litora torquent.Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.</p>
+
+<hr width="80%" align="center">
+
+						<h3><i>Experiencia</i></h3>
+						<p>
+						<li><strong><u>Exército Brasileiro</u></strong><br></li>
+						Soldado | 2017-2018
+						</p>
+
+						<li><strong><u>Patrus Transportes</u></strong><br></li>
+						Aux. de transporte | 2018-2019<br>
+						Conferente | 2019-2020<br>
+						Aux. de Expedição | 2020-2021
+						</p>
+
+<hr width="80%" align="center">
+
+						<h3><i>Formação</i></h3>
+						<p>
+						<li><strong><u>Ensino Médio</u></strong><br></li>
+						E. E. Monsenhor José Paulino | 2014-2016
+						</p>
+
+						<li><strong><u>Gestão de segurança Publica e Privada</u></strong><br></li>
+						Uninter, EAD | 2021-Atualmente
+						</p>
+
+						<li><strong><u>Análise e Desenvolvimento de Sistema</u></strong><br></li>
+						Unis Pouso Alegre | 2022-Atualmente
+						</p>
+
+<hr width="80%" align="center">
+
+						<h3><i>Habilidades</i></h3>
+						<p>
+						<li>CNH B</li>
+						<li>Ingês intermediario</li>
+						<li>Photoshop Adobe CS5</li>
+						<li>Blender 3D | Unity | CryEngine</li>
+						<li>Linux para desktop</li>
+						</p>
+
+					</td>
+
+<!-- Inicio da celula direira -->
+					<td width="30%" valign="top">
+
+						<p>
+							<img src="https://scontent.fplu8-1.fna.fbcdn.net/v/t1.18169-9/28279186_1532199140233963_5902614753455541005_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEt_umLtmoogKb9IFuAzLGnBIv7Sx-gSo4Ei_tLH6BKjlSqxioO34Zytc5As_z2EC3BYXPgr1YdzhWf-Mlz6QRi&_nc_ohc=T2A6MMBovlUAX_WKXlh&_nc_oc=AQkovNhJfNOVMvSa6h9VE27X1UCyykKaQMZzeSnNlVu5s6vbKCDlOERGGOxpCVpvQmE&_nc_ht=scontent.fplu8-1.fna&oh=00_AT8nlZ8PkKvIM3Z5Ac2PEYfh1i2-P-CyLermrNdBruDg8A&oe=626C2C8A" width="200px" height="250px">
+						</p>
+						<p>
+							<h1><strong>DANILO MONTEIRO DA SILVA</strong></h1>
+						</p>
+
+						<p>
+							<h3><strong>Informações:</strong></h3>
+							24 anos, solteiro, brasileiro.
+						</p>
+
+						<p>
+							<h3><strong>Endereço:</strong></h3>
+							Estrada de Pantano, 1005, Cajuru, Pouso Alegre, MG.
+						</p>
+
+						<p>
+							<h3><strong>Contatos:</strong></h3>
+								Telefone: (35) 9 8895-1842<br>
+								E-mail: <a href="mailto:danilo.monteiro210@outlook.com">danilo.monteiro210@outlook.com</a>
+						</p>
+
+					</td>
+				</tr>
+
+			</table>
+
+</body>
+</html>
